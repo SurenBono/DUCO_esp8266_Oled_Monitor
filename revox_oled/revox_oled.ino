@@ -74,13 +74,13 @@ namespace {
 // Change the part in brackets to your WiFi name
 const char* SSID = "Arduino Wifi"; 
 // Change the part in brackets to your WiFi password
-const char* PASSWORD = "tm1010101"; 
+const char* PASSWORD = "t*******1"; 
 // Change the part in brackets to your Duino-Coin username
 const char* USERNAME = "SurenBono"; 
 // Change the part in brackets if you want to set a custom miner name (use Auto to autogenerate, None for no name)
 const char* RIG_IDENTIFIER = "D1R1 Oled Monitor";
 // Change the part in brackets to your mining key (if you enabled it in the wallet)
-const char* MINER_KEY = "1234";
+const char* MINER_KEY = "****";
 // Change false to true if using 160 MHz clock mode to not get the first share rejected
 const bool USE_HIGHER_DIFF = true;
 // Change true to false if you don't want to host the dashboard page
