@@ -4,7 +4,7 @@
 
 // ---------------------- General settings ---------------------- //
 // Change the part in brackets to your Duino-Coin username
-extern const char DUCO_USER[] = "SurenBono ";
+extern const char DUCO_USER[] = "SurenBono";
 // Change the part in brackets to your mining key (if you have set it in the wallet)
 extern const char MINER_KEY[] = "1234";
 // Change the part in brackets if you want to set a custom miner name
@@ -13,7 +13,7 @@ extern const char RIG_IDENTIFIER[] = "SurenBono";
 // Change the part in brackets to your WiFi name
 extern const char SSID[] = "Arduino Wifi";
 // Change the part in brackets to your WiFi password
-extern const char PASSWORD[] = "a111b222";
+extern const char PASSWORD[] = "a*****2";
 
 // Uncomment if you want to host the dashboard page (available on ESPs IP address)
 #define WEB_DASHBOARD
