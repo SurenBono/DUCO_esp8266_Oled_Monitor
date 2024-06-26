@@ -2,7 +2,7 @@
 Check DUCO (DuinoCoin) balance ... 
 
 
-![Alt text](URL)
+![Alt text](espOled.jpg)
 
 
 
