@@ -6,7 +6,7 @@
 // Change the part in brackets to your Duino-Coin username
 extern const char DUCO_USER[] = "SurenBono";
 // Change the part in brackets to your mining key (if you have set it in the wallet)
-extern const char MINER_KEY[] = "1234";
+extern const char MINER_KEY[] = "****";
 // Change the part in brackets if you want to set a custom miner name
 // Use Auto to autogenerate, None for no custom identifier
 extern const char RIG_IDENTIFIER[] = "SurenBono";
