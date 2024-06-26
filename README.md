@@ -1,4 +1,4 @@
-# DUCO_esp8266_Oled_Monitor
+# DUCO esp8266 Oled Monitor
 Check DUCO (DuinoCoin) balance ... 
 
 
