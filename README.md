@@ -6,6 +6,7 @@ Thanks to revox ..
 
 
 ![Alt text](espOled.jpg)
+![Alt text](miners.jpg)
 
 
 
