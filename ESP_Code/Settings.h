@@ -13,7 +13,7 @@ extern const char RIG_IDENTIFIER[] = "SurenBono";
 // Change the part in brackets to your WiFi name
 extern const char SSID[] = "Arduino Wifi";
 // Change the part in brackets to your WiFi password
-extern const char PASSWORD[] = "a*****2";
+extern const char PASSWORD[] = "t*****1";
 
 // Uncomment if you want to host the dashboard page (available on ESPs IP address)
 #define WEB_DASHBOARD
