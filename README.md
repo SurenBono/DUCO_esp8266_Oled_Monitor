@@ -16,6 +16,8 @@ Alert list:
 
 
 Optional:
-Send Duco to revox
-My DUCO UserName: SurenBono
+
+- Send Duco to revox
+- My DUCO UserName: SurenBono
+- 
 -end of info-
