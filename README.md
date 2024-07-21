@@ -3,13 +3,10 @@ Check DUCO (DuinoCoin) balance ...
 
 Thanks to revox .. https://github.com/revoxhere/duino-coin
 
-1. esp8266/32 miner with identification 
-2. esp + Oled miner + monitor ( but slower)
+1. esp8266/32 16khs miner with id
+2. esp miner + Oled monitor ( but slower 8khs)
 
 ..this is just learning spot do not contribute to global warming & greed..or get scammed 
-
-Alert list:
-1. VERUS is scam
 
 ![Alt text](espOled.jpg)
 ![Alt text](miners.jpg)
@@ -19,5 +16,8 @@ Optional:
 
 - Send Duco to revox
 - My DUCO UserName: SurenBono
+
+- Recommendations join Verus
+- referral: Suren.valuid@
   
 -end of info-
