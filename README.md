@@ -16,8 +16,6 @@ Optional:
 
 - Send Duco to revox
 - My DUCO UserName: SurenBono
-
-- Recommendations join Verus
-- referral: Suren.valuid@
+- Verus referral: Suren.valuid@
   
 -end of info-
